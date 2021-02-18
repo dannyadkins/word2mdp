@@ -1,1 +1,22 @@
 src,description_text
+"https://simple.wikipedia.org/wiki/Chess","The rules of chess are governed by the World Chess Federation, which is known by the initials FIDE, meaning Fédération Internationale des Échecs. The rules are in the section Laws of Chess of the FIDE Handbook. FIDE also give rules and guidelines for chess tournaments.
+
+Setup[change | change source]
+Chess is played on a square board divided into eight rows of squares called ranks and eight columns called files, with a dark square in each player's lower left corner. This is altogether 64 squares. The colors of the squares are laid out in a checker (chequer) pattern in light and dark squares. To make speaking and writing about chess easy, each square has a name. Each rank has a number from 1 to 8, and each file a letter from a to h. This means that every square on the board has its own label, such as g1 or f5. The pieces are in white and black sets. The players are called White and Black, and at the start of a game each player has 16 pieces. The 16 pieces are one king, one queen, two rooks, two bishops, two knights and eight pawns. in this game out can get up to a quadruple pon, king, knight, queen, and also the king although it is very rare.
+
+Movement
+Definitions: vertical lines are files; horizontal lines are ranks; lines at 45° are diagonals. Each piece has its own way of moving around the board. The X marks the squares where the piece can move.
+* The knight is the only piece that can jump over another piece.
+* No piece may move to a square occupied by a piece of the same color.
+* All pieces capture the same way they move, except pawns.
+* The king (K for short) can move one square in any direction. The king may not move to any square where it is threatened by an opposing piece. However, the king can move to a square that is occupied by an opponent's piece and capture the piece, taking it off the board.
+* The queen (Q) can move any distance in any direction on the ranks, files and diagonals.
+* The rooks (R) move any distance on the ranks or files.
+* The bishops (B) move diagonally on the board. Since a bishop can only move diagonally, it will always be on the same color square.
+* The knights (Kt or N) move in an "L" shape. Each move must be either two squares along a rank and one square along a file, or two squares along a file and one square along a rank. It is the only piece that can jump over other pieces. Like the other pieces, it captures an opposing piece by landing on its square.
+* The pawns can only move up the board. On its first move a pawn may move either one or two squares forward. A pawn captures one square diagonally, not as it moves: see white circles on its diagram. In some situations, pawns can capture opponent's pawns in a special way called en passant, which means in passing in French (see below).
+Capturing
+Most pieces capture as they move. If a piece lands on an opponent's piece, the opposing piece is taken off the board. There are three special cases:
+1. The king cannot be taken (see check and checkmate).
+2. No piece can be taken while castling (see below).
+3. Pawns take one square diagonally (see below)."
